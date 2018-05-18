@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dtmhs" value="name:id_mhs;datatype:int,name:nama;datatype:string,name:npm;datatype:int,name:kelas;datatype:string,name:jk;datatype:string,name:telp;datatype:string,name:email;datatype:string,name:alamat;datatype:blob,name:point;datatype:int,name:kali;datatype:int,name:jumlah;datatype:real,name:admin;datatype:string" />
+	<infoitem key="UD_kelas" value="name:id_kelas;datatype:int,name:kelas;datatype:string,name:ket;datatype:blob" />
+	<infoitem key="UD_cri" value="name:id_mhs;datatype:int,name:nama;datatype:string,name:npm;datatype:int,name:kelas;datatype:string,name:jk;datatype:string,name:telp;datatype:string,name:email;datatype:string,name:alamat;datatype:blob,name:point;datatype:int,name:kali;datatype:int,name:jumlah;datatype:real,name:admin;datatype:string" />
+	<infoitem key="UD_mahasiswa" value="name:id_mhs;datatype:int,name:nama;datatype:string,name:npm;datatype:int,name:kelas;datatype:string,name:jk;datatype:string,name:telp;datatype:string,name:email;datatype:string,name:alamat;datatype:blob,name:point;datatype:int,name:kali;datatype:int,name:jumlah;datatype:real,name:admin;datatype:string" />
+</info>
